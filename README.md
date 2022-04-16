@@ -1,16 +1,17 @@
-### Hi there 👋
+Kid:
 
-<!--
-**Panahifarah/Panahifarah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Somebody tell me.
 
-Here are some ideas to get you started:
+> Why does it feel more real when I dream than when I am awake?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> How can I know if my senses are lying?
+
+Neo:
+
+> There is some fiction in your truth, and some truth in your fiction.
+
+> To know the truth, you must risk everything.
+
+![Kid’s Story](https://m.media-amazon.com/images/M/MV5BMjA4Mjk2MTgyMF5BMl5BanBnXkFtZTcwNDY2NTIyNw@@._V1_.jpg)
+
+- “The Animatrix, Kid’s Story”
